@@ -27,10 +27,10 @@
 
 | Project | What it does |
 |---|---|
-| [LLM Call-Quality Evaluation](https://github.com/<your-username>/llm-call-quality-eval) | Whisper ASR → GPT-4 rubric scoring with structured JSON output |
-| [RAG Knowledge Assistant](https://github.com/<your-username>/rag-knowledge-assistant) | Chunk, embed, retrieve & re-rank over a document corpus |
-| [Attrition Risk Model](https://github.com/<your-username>/attrition-risk-model) | XGBoost + SHAP churn/attrition model with explainability |
-| [Telecom Churn Predictor](https://github.com/<your-username>/telecom-churn-predictor) | PCA + Logistic Regression, ~88% recall on high-value customers |
+| [LLM Call-Quality Evaluation](https://github.com/Bhattar/llm-call-quality-eval) | Whisper ASR → GPT-4 rubric scoring with structured JSON output |
+| [RAG Knowledge Assistant](https://github.com/Bhattar/rag-knowledge-assistant) | Chunk, embed, retrieve & re-rank over a document corpus |
+| [Attrition Risk Model](https://github.com/Bhattar/attrition-risk-model) | XGBoost + SHAP churn/attrition model with explainability |
+| [Telecom Churn Predictor](https://github.com/Bhattar/telecom-churn-predictor) | PCA + Logistic Regression, ~88% recall on high-value customers |
 
 ### 📫 Reach me
 
@@ -39,5 +39,5 @@
 
 <!--
 GitHub stats card — optional, uncomment if you want it:
-![Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Bhattar&show_icons=true)
 -->
